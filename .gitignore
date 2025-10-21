@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore data and models (optional if big)
+data/
+models/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
